@@ -1,0 +1,21 @@
+.card1:hover {
+  color: yellowgreen;
+}
+
+.card2 {
+  background-color: chocolate;
+  color: white;
+}
+
+.card2:hover {
+  background-color: white;
+  color: chocolate;
+}
+
+.card3:hover {
+  color: rgb(207, 81, 31);
+}
+
+.iconFont {
+  font-size: xx-large;
+}

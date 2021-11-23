@@ -1,0 +1,11 @@
+ul li a:hover{
+    background-color: chocolate;
+    color: white;
+    border-radius: 15%;
+}
+
+.logo{
+    width: 150px;
+    height: 100px;
+    border: none;
+}

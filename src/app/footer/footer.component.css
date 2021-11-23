@@ -1,0 +1,67 @@
+body {
+  background-image: linear-gradient(black, blue, #7f03fc, orange, yellow, green);
+
+}
+
+.parallax {
+  background-image: url(../../assets/images/parallax.jpg);
+  height: 540px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+}
+
+h1 {
+  padding: 200px 355px;
+  color: white;
+  font-size: 60px;
+  text-shadow: 0px 0px 10px black;
+  text-align: center;
+  margin: auto;
+}
+
+.icon {
+  margin-top: -230px;
+  margin: 50%;
+  margin-top: -200px;
+}
+
+.icon2 {
+  margin-top: -230px;
+  margin: 50%;
+  margin-top: -200px;
+}
+
+a {
+  color: chocolate;
+  text-decoration: none;
+
+}
+
+
+.socal-icons ul li {
+  float: left;
+  list-style: none;
+  padding: 12px;
+}
+
+.socal-icons ul {
+  padding-left: 0px;
+}
+
+.socal-icons ul li a {
+  background: chocolate;
+  border-radius: 50%;
+  width: 30px;
+  height: 41px;
+  padding: 10px 14px;
+  color: white;
+}
+
+.socal-icons ul li a:hover {
+  color: chocolate;
+  background-color: white;
+}
